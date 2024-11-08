@@ -1,0 +1,3 @@
+alias info='neofetch'
+alias ls='ls -lah --color=auto'
+alias randdir='mkdir ./$(uuidgen)'
