@@ -1,3 +1,4 @@
 alias info='neofetch'
 alias ls='ls -lah --color=auto'
 alias randdir='mkdir ./$(uuidgen)'
+alias gsu='git submodule update --remote'
